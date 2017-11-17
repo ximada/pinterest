@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #e9e9e9;
+
+}
+ul {
+  text-align: center;
+    display: inline-block;
+    height: 100px;
+
+}
+li{
+  display: inline-block;
+
+
+}
+a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #AB8B6F;
+  border-radius: 20px;
+
+}
+.contedor {
+  width: 90%;
+  margin:15px auto;
+
+}
+.elemento{
+  width:
+  background: #fff;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+
+
+
+}
+ .image {
+  width: 260px;
+  border-radius: 20px;
+ }
